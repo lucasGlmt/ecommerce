@@ -1,0 +1,19 @@
+
+
+header {
+    margin-bottom: 20px;
+}
+
+.article {
+    margin-bottom: 20px;
+}
+
+
+.cbox {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%); 
+    border-radius: 5px;
+    border: solid #cccccc 1px;
+    padding: 30px;
+}
